@@ -66,7 +66,7 @@ author:
           🤖 Passionate about the intersection of AI and defense technology, autonomous systems."
   links:
     - label: "Linkedin"
-      icon: "fa fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/raul-marti/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -75,7 +75,7 @@ author:
 footer:
   links:
     - label: "Linkedin"
-      icon: "fa fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/raul-marti/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
