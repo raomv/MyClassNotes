@@ -24,6 +24,7 @@ github_username: raomv
 minimal_mistakes_skin: dark
 search: true
 
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -59,11 +60,9 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "💻 Skilled in C++ and knowledgeable in electronic warfare/electronic countermeasures and sonar systems.
-          ⚓ Working on software for the advanced S80 Plus submarines of the Spanish Navy.
-          🎓 Pursuing a Master's in Artificial Intelligence, specializing in AI, computer vision, machine learning, and unmanned vehicles.
-          🤖 Passionate about the intersection of AI and defense technology, autonomous systems."
+  avatar : "/assets/images/bio-photo.png"
+  bio    : "🎓Cursando una máster en Inteligencia Artificial, aprendiendo sobre visión por computador y aprendizaje automático. 
+          🤖 Interesado por la implementación de la IA en la tecnología de defensa, así como los sistemas autónomos."
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
@@ -90,9 +89,11 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      show_date: true
+      comments: false
       share: true
       related: true
+      enable_copy_code_button: true
   # _pages
   - scope:
       path: "_pages"
