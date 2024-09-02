@@ -74,7 +74,7 @@ author:
 
 footer:
   links:
-  - label: "Linkedin"
+    - label: "Linkedin"
       icon: "fa fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/raul-marti/"
     - label: "GitHub"
