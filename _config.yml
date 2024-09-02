@@ -65,15 +65,18 @@ author:
           🎓 Pursuing a Master's in Artificial Intelligence, specializing in AI, computer vision, machine learning, and unmanned vehicles.
           🤖 Passionate about the intersection of AI and defense technology, autonomous systems."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Linkedin"
+      icon: "fa fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/raul-marti/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/raomv/"
 
 footer:
   links:
+  - label: "Linkedin"
+      icon: "fa fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/raul-marti/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "ttps://github.com/raomv/"
