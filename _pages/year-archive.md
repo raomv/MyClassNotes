@@ -1,6 +1,6 @@
 ---
 title: "Publicaciones por año"
 permalink: /posts/
-layout: publicaciones
+layout: posts
 author_profile: true
 ---

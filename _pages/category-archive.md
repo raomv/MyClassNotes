@@ -1,6 +1,6 @@
 ---
 title: "Publicaciones por categoria"
-layout: categorias
+layout: categories
 permalink: /categories/
 author_profile: true
 ---
