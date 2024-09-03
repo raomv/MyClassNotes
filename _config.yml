@@ -13,12 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mis notas sobre Machine Learning
+title: Apuntes sobre Machine Learning y otras cuestiones
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Esta página contiene mis notas y proyectos sobre Machine Learning y conceptos sobre cualquier
-  otra cuestión interesante a nivel de desarrollo. Cada sección se organiza de manera sencilla
-  y clara para ayudar a clarificar las ideas.
+  otra cuestión interesante a nivel de desarrollo.
 twitter_username: 
 github_username: raomv
 minimal_mistakes_skin: dark
@@ -61,7 +60,8 @@ plugins:
 author:
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "🎓Cursando una máster en Inteligencia Artificial, aprendiendo sobre visión por computador y aprendizaje automático. 
+  bio    : "🎓 Cursando una máster en Inteligencia Artificial, aprendiendo sobre visión por computador y aprendizaje automático.
+
           🤖 Interesado por la implementación de la IA en la tecnología de defensa, así como los sistemas autónomos."
   links:
     - label: "Linkedin"

@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "Autor"
 ---
 
 Raúl M.V - 2024
