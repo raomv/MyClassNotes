@@ -69,9 +69,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/raomv/"
-
   sidebar:
-    nav: "docs"
+  nav: "docs"
 
 footer:
   links:
@@ -103,6 +102,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+    # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
 
 category_archive:
   type: liquid
