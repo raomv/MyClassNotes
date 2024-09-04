@@ -70,6 +70,9 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/raomv/"
 
+  sidebar:
+    nav: "docs"
+
 footer:
   links:
     - label: "Linkedin"
