@@ -108,5 +108,3 @@ tag_archive:
   type: liquid
   path: /tags/
 
-sidebar:
-  nav: "docs"
