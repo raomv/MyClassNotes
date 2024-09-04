@@ -58,11 +58,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Raúl M. V"
   avatar : "/assets/images/bio-photo.png"
   bio    : "🎓 Cursando una máster en Inteligencia Artificial, aprendiendo sobre visión por computador y aprendizaje automático.
-
-          🤖 Interesado por la implementación de la IA en la tecnología de defensa, así como los sistemas autónomos."
+            🤖 Interesado por la implementación de la IA en la tecnología de defensa, así como los sistemas autónomos."
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
@@ -108,3 +107,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+sidebar:
+  nav: "docs"
